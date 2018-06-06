@@ -1,12 +1,16 @@
 # _{Leap Year}_
 
-#### _{jQuery, HTML, CSS, JavaScript, branching, button input, and logic coding exercise by Epicodus}, {June 1, 2018}_
+#### _{jQuery, HTML, CSS, JavaScript, button input, and logic coding }, {June 6, 2018}_
 
 #### By _**{Kyle Parsons}**_
 
 ## Description
 
-_{This is a survey to determine which track to following in coding.}_
+_{This is an application that determines if the entered year is a leap year following these specs
+The program should return when a year is not a leap year.
+The program should return 'true' for years divisible by 4, since those are leap years.
+The program should return 'false' for years divisible by 100, since those are not leap years.
+The program should return 'true' for years divisible by 400, since those are leap years.}_
 
 ## Setup/Installation Requirements
 
