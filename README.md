@@ -20,7 +20,7 @@ The program should return 'true' for years divisible by 400, since those are lea
 
 ## Known Bugs
 
-_{J script is not producing deisired results}_
+_{}_
 
 ## Support and contact details
 
